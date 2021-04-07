@@ -1,0 +1,14 @@
+{
+    "name": "aabouei/to-do-list-1",
+    "description": "test todolist project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir",
+            "email": "abouei.me@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
